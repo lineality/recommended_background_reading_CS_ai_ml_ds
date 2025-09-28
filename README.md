@@ -1,10 +1,10 @@
 # recommended_background_reading_CS_ai_ml_ds
 
-Data Science, AI ML, Computer Science Book List: 
-Recommended Background Reading
+# Data Science, AI ML, Computer Science Book List: 
+## Recommended Background Reading
 
 
-If only two...
+### If only two...
 
 (concepts and technical / cookbook)
 "Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python", by Hobson Lane, Hannes Hapke, et al. (1st Edition)
@@ -19,7 +19,7 @@ or
 Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
 by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
 
-Must Read
+## Must Read
 
 "Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python", by Hobson Lane, Hannes Hapke, et al.
 https://www.amazon.com/Natural-Language-Processing-Action-Understanding/dp/B07X37578L/ 
@@ -37,7 +37,7 @@ by Martin Kleppmann
 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321 
 
 
-History of Computation, Computer Science & AI
+# History of Computation, Computer Science & AI
 
 Alan Turing : The Enigma (Topic: History & Future of AI)
 by Andrew Hodges, Simon & Schuster (October 31, 1983)
@@ -141,7 +141,7 @@ https://www.amazon.com/Technology-Academics-Universities-Scientific-Revolution/d
 https://www.amazon.com/technology-Academics-Eric-Ashby/dp/B003F8DMPO/ 
 
 
-General AI-ML Reading
+# General AI-ML Reading
 
 (Perhaps my favorite, most re-read, most-recommended overall AI book. The focus is NLP, but it is a great (the best?) general Data Science book, as it is so well written.)
 Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python
@@ -319,7 +319,7 @@ by Herman Narula and Random House Audio
 https://www.amazon.com/Virtual-Society-Metaverse-Frontiers-Experience/dp/B09SGXT539/
 
 
-Statistics & Math
+## Statistics & Math
 
 The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy 
 by Sharon Bertsch McGrayne
@@ -352,7 +352,7 @@ Developer Voices
 https://www.youtube.com/watch?v=pZV9FvdKmLc 
 
 
-Programing Language Books & Resources
+## Programing Language Books & Resources
 
 C Programming Language, 2nd Edition
 by Brian W. Kernighan (Author), Dennis M. Ritchie (Author)
