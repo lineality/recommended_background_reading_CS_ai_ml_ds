@@ -14,7 +14,7 @@ https://www.amazon.com/Natural-Language-Processing-Action-Understanding/dp/B07X3
 A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going
 by Michael Wooldridge, Glen McCready, et al.
 https://www.amazon.com/Brief-History-Artificial-Intelligence-Where/dp/B088MMPZ49/ 
-or
+#### or
 (concepts, non-technical)
 Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
 by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
