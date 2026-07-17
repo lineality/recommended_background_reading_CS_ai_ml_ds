@@ -370,6 +370,15 @@ Rust in Action
 by Tim McNamara | Aug 10, 2021
 https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551/
 
+
+Statistics with Rust, Second Edition: Explore rust programming and its powerful crates across data science, machine learning and NLP projects
+by Keiko Nakamura (Author)
+https://www.amazon.com/Machine-Learning-Rust-Second-Implement-ebook/dp/B0H5FTCZN2/
+
+Machine Learning with Rust, Second Edition: Implement data pipelines, classical models, deep learning and NLP using burn, candle, linfa and smartcore
+by Keiko Nakamura (Author)
+https://www.amazon.com/Statistics-Rust-Second-programming-powerful-ebook/dp/B0DMWTL265/ 
+
 Hacker's Delight
 by Henry Warren | Sep 25, 2012
 https://www.amazon.com/Hackers-Delight-2nd-Henry-Warren/dp/0321842685/ 
