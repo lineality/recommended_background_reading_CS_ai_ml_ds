@@ -1,10 +1,8 @@
-# recommended_background_reading_CS_ai_ml_ds
-
-# Data Science, AI ML, Computer Science Book List: 
-## Recommended Background Reading
+#### Data Science, AI ML, Computer Science Book List: 
+Recommended Background Reading
 
 
-### If only two...
+#If only two...
 
 (concepts and technical / cookbook)
 "Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python", by Hobson Lane, Hannes Hapke, et al. (1st Edition)
@@ -14,10 +12,12 @@ https://www.amazon.com/Natural-Language-Processing-Action-Understanding/dp/B07X3
 A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going
 by Michael Wooldridge, Glen McCready, et al.
 https://www.amazon.com/Brief-History-Artificial-Intelligence-Where/dp/B088MMPZ49/ 
-#### or
+or
 (concepts, non-technical)
 Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
 by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
+
+See more recommended books: https://docs.google.com/document/d/11DFQtsNjrqHENS0D7UpuZhOhcqCKK39JfmEBc8O8NHI/ 
 
 ## Must Read
 
@@ -37,7 +37,7 @@ by Martin Kleppmann
 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321 
 
 
-# History of Computation, Computer Science & AI
+## History of Computation, Computer Science & AI
 
 Alan Turing : The Enigma (Topic: History & Future of AI)
 by Andrew Hodges, Simon & Schuster (October 31, 1983)
@@ -54,6 +54,11 @@ https://www.amazon.com/Man-Future-Visionary-Life-Neumann/dp/1324003995/
 A Mind at Play: How Claude Shannon Invented the Information Age
 by Jimmy Soni and Rob Goodman | Jul 17, 2018
 https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X/ 
+
+Software Engineering Education: SEI Conference 1991 (Topic: Serious Need for Communication and Project Management Skills)
+Pittsburgh, Pennsylvania, USA, October 7-8, 1991. Proceedings (Lecture Notes in Computer Science, 536) 
+by James E. Tomayko (Editor)
+https://www.amazon.com/Software-Engineering-Education-Pennsylvania-Proceedings/dp/3540545026/ 
 
 The Logician and the Engineer: How George Boole and Claude Shannon Created the Information Age
 by Paul J. Nahin | Oct 28, 2012
@@ -135,13 +140,16 @@ Broad Band: The Untold Story of the Women Who Made the Internet
 by Claire L. Evans, Jul 7, 2020
 https://www.amazon.com/Broad-Band-Untold-Story-Internet/dp/0593329449/ 
 
+Proving Ground: The Untold Story of the Six Women Who Programmed the World's First Modern Computer, by Kathy Kleiman, Erin Bennett, et al. July 26, 2022
+https://www.amazon.com/Proving-Ground-Untold-Programmed-Computer/dp/B09KK1QHKM/ 
+
 Technology and the Academics: an Essay on Universities and the Scientific Revolution
 by Eric Ashby, 1958 (Classic, must read history of STEM book.)
 https://www.amazon.com/Technology-Academics-Universities-Scientific-Revolution/dp/1014404819 
 https://www.amazon.com/technology-Academics-Eric-Ashby/dp/B003F8DMPO/ 
 
 
-# General AI-ML Reading
+## General AI-ML Reading
 
 (Perhaps my favorite, most re-read, most-recommended overall AI book. The focus is NLP, but it is a great (the best?) general Data Science book, as it is so well written.)
 Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python
@@ -334,7 +342,7 @@ by Ian Stewart, Roger Clark, et al.
 https://www.amazon.com/Significant-Figures-Ian-Stewart-audiobook/dp/B0757S1XTJ/
 
 
-Databases: Data, Memory & Resource Management
+## Databases: Data, Memory & Resource Management
 Designing Data-Intensive Applications: 1st Edition (2017) [Must Read]
 by Martin Kleppmann
 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321 
@@ -389,6 +397,4 @@ https://www.youtube.com/watch?v=JRcXUuQYR90&t=2810s
 
 CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”
 https://www.youtube.com/watch?v=dOfucXtyEsU 
-
-
 
