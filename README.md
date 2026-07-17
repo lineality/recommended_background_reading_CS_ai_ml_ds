@@ -1,8 +1,9 @@
-#### Data Science, AI ML, Computer Science Book List: 
+## Data Science, AI ML, Computer Science Book List: 
 Recommended Background Reading
 
 
-#If only two...
+# If only two...
+
 
 (concepts and technical / cookbook)
 "Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python", by Hobson Lane, Hannes Hapke, et al. (1st Edition)
