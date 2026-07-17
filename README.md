@@ -18,7 +18,6 @@ or
 Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
 by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
 
-See more recommended books: https://docs.google.com/document/d/11DFQtsNjrqHENS0D7UpuZhOhcqCKK39JfmEBc8O8NHI/ 
 
 ## Must Read
 
