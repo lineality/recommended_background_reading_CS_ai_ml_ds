@@ -4,7 +4,6 @@ Recommended Background Reading
 
 # If only two...
 
-
 (concepts and technical / cookbook)
 "Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python", by Hobson Lane, Hannes Hapke, et al. (1st Edition)
 https://www.amazon.com/Natural-Language-Processing-Action-Understanding/dp/B07X37578L/ 
@@ -17,6 +16,7 @@ or
 (concepts, non-technical)
 Artificial Intelligence: A Guide for Thinking Humans (Topic: History & Future of AI)
 by Melanie Mitchell  Pelican (October 15, 2019) https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0241404827/
+
 
 
 ## Must Read
@@ -326,6 +326,10 @@ Virtual Society: The Metaverse and the New Frontiers of Human Experience
 by Herman Narula and Random House Audio
 https://www.amazon.com/Virtual-Society-Metaverse-Frontiers-Experience/dp/B09SGXT539/
 
+Fukuyama
+- https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution/dp/B006QGIQ94 
+- https://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/B00LU3YM8C 
+
 
 ## Statistics & Math
 
@@ -370,7 +374,6 @@ Rust in Action
 by Tim McNamara | Aug 10, 2021
 https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551/
 
-
 Statistics with Rust, Second Edition: Explore rust programming and its powerful crates across data science, machine learning and NLP projects
 by Keiko Nakamura (Author)
 https://www.amazon.com/Machine-Learning-Rust-Second-Implement-ebook/dp/B0H5FTCZN2/
@@ -406,4 +409,28 @@ https://www.youtube.com/watch?v=JRcXUuQYR90&t=2810s
 
 CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”
 https://www.youtube.com/watch?v=dOfucXtyEsU 
+
+Developer Voices: "Will Turso Be The Better SQLite? (with Glauber Costa)"
+https://www.youtube.com/watch?v=1JHOY0zqNBY&t=1980s 
+vs.
+Reliability Lessons From SQLite - Richard Hipp | SSW 2026
+https://www.youtube.com/watch?v=V_qzqY1bb7I 
+
+
+
+# History of C-Unix Programing
+
+P.J. Plauger is an important resource in digging into the history of K&R C and ANSI C, and the time period from Pre-C to ANSI-C. Plauger was involved with the C-Unit group from before the beginning, and co-authored two editions of a book about programming with Brian Kernigan (with the two editions being effectively separate books). He was the lead (to extent that there was one) of the ANSI-C committee-redesign, and the author of the definitive book about the ANSI-C standard library, his own book about C, and a book of essays on programming (aside from other publications. He is disarmingly candid in his writing, in remarkable contrast to the discipline of Kernigan. 
+
+- Kernigan & Plauger, 1974: Pre-C 'The Elements of Programming Style' 1st Edition (very out of print) 
+- Kernigan & Plauger, 1978: Pre-C 'The Elements of Programming Style' 2nd Edition (out of print) 
+- Kernigan & Ritchie, 1978: Original K&R C: The C Programming Language (out of print)
+- Kernigan & Ritchie, 1988: 'The C Programming Language 2nd Edition ANSI C' (in print)
+- P.J. Plauger & Jim Brody, 1989 "Standard C" (out of print, obscure Microsoft publication)
+- Plauger, 1992 "The C Standard Library" (Full of frank commentary)  (out of print)
+- Plauger, 1993 "Programming on Purpose" (out of print)
+
+#### Timeline Notes: 
+The Epoch of K&R-C and Unix was already under-way by the time the 1978: Original K&R C: The C Programming Language was published, with Unix and BSD already being mature and widely used. Bjarne Stroustrup was (since at least 1979) already working on C++ during the time that K&R-C was being revised into ANSI-C, the first version of C++ being officially released in 1985 (~5 years before ANSI-C), making C++ a 'contemporary/older co-fork of K&R-C' along with ANSI-C, and not a later derivation of ANSI-C. 
+
 
