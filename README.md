@@ -251,23 +251,6 @@ Real Magic (Topic: Mind and consciousness research)
 by Dean Radin, Mark Bramhall, et al.
 https://www.amazon.com/Real-Magic-Dean-Radin-audiobook/dp/B07BGCQDR2/
 
-
-
-
-And...since you can't study DS with statistics, and you can't study statistics without studying economics, and you can't study economics without the history of economics:
-Economic Thought Before Adam Smith : History of Economic Thought (Vol. 1)
-by Murray N. Rothbard               
-https://www.amazon.com/Economic-Thought-Before-Adam-Smith/dp/1852789611
-&
-Classical Economics : History of Economic Thought Vol.2)
-by Murray N. Rothbard               
-https://www.amazon.com/Classical-Economics-Austrian-Perspective-Economic-ebook/dp/B003H4R8N8
-
-And since understanding the roots of common terminology and concepts can be so important:
-Aristotle's Political Theory: An Introduction for Students of Political Theory
-by R. G. Mulgan               
-https://www.amazon.com/Aristotles-Political-Theory-Introduction-Students/dp/0198274165
-
 A New Kind of Science (Survey of Cellular Automata including CA-based Modeling)
 by Stephen Wolfram               
 https://www.amazon.com/New-Kind-Science-Stephen-Wolfram-ebook/dp/B01N1I83V8/
@@ -287,24 +270,6 @@ https://www.amazon.com/Descartes-Bones-Skeletal-History-Conflict/dp/0307275663
 Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Data & Society)
 by Steven Pinker               
 https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0143111388
-
-Guns, Germs, and Steel: The Fates of Human Societies (Data Society History)
-by Jared Diamond                     
-https://www.amazon.com/Guns-Germs-and-Steel-audiobook/dp/B004JLTPTI
-
-Collapse: How Societies Choose to Fail or Succeed (Data Society History)
-by Jared Diamond
-https://www.amazon.com/Collapse-Jared-Diamond-audiobook/dp/B00P2QCN2U
-
-
-
-The World Until Yesterday (Data Society History)
-by Jared Diamond
-https://www.amazon.com/World-Until-Yesterday-Traditional-Societies-ebook/dp/B008EKOO46
-
-The Rise and Fall of American Growth (Data Society History)
-by Robert J. Gordon
-https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691147728/ 
 
 Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It
 by Erica Thompson | Dec 6, 2022
@@ -326,9 +291,49 @@ Virtual Society: The Metaverse and the New Frontiers of Human Experience
 by Herman Narula and Random House Audio
 https://www.amazon.com/Virtual-Society-Metaverse-Frontiers-Experience/dp/B09SGXT539/
 
-Fukuyama
+
+## Generalized STEM, Administration, Economics 
+
+"A Fabulous Debt: The Epic Story of How Bonds Built the Modern World" 
+By Robin Wigglesworth, 2026
+https://www.amazon.com/Fabulous-Debt-Story-Bonds-Modern/dp/B0GM5D6MFN/ 
+
+Francis Fukuyama: Two Volumes on History of Administration
+1:2 The Origins of Political Order: From Prehuman Times to the French Revolution
 - https://www.amazon.com/Origins-Political-Order-Prehuman-Revolution/dp/B006QGIQ94 
+2:2 Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy
 - https://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/B00LU3YM8C 
+
+
+Economic Thought Before Adam Smith : History of Economic Thought (Vol. 1)
+by Murray N. Rothbard               
+https://www.amazon.com/Economic-Thought-Before-Adam-Smith/dp/1852789611
+
+Classical Economics : History of Economic Thought Vol.2)
+by Murray N. Rothbard               
+https://www.amazon.com/Classical-Economics-Austrian-Perspective-Economic-ebook/dp/B003H4R8N8
+
+Aristotle's Political Theory: An Introduction for Students of Political Theory
+by R. G. Mulgan               
+https://www.amazon.com/Aristotles-Political-Theory-Introduction-Students/dp/0198274165
+
+
+
+Guns, Germs, and Steel: The Fates of Human Societies (Data Society History)
+by Jared Diamond                     
+https://www.amazon.com/Guns-Germs-and-Steel-audiobook/dp/B004JLTPTI
+
+Collapse: How Societies Choose to Fail or Succeed (Data Society History)
+by Jared Diamond
+https://www.amazon.com/Collapse-Jared-Diamond-audiobook/dp/B00P2QCN2U
+
+The World Until Yesterday (Data Society History)
+by Jared Diamond
+https://www.amazon.com/World-Until-Yesterday-Traditional-Societies-ebook/dp/B008EKOO46
+
+The Rise and Fall of American Growth (Data Society History)
+by Robert J. Gordon
+https://www.amazon.com/Rise-Fall-American-Growth-Princeton/dp/0691147728/ 
 
 
 ## Statistics & Math
